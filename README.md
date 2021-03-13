@@ -1,3 +1,9 @@
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+
+
+
 - 👋 Hi, I’m @N33ds0n
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning Django
