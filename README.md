@@ -4,7 +4,7 @@
 
 
 - 👋 Hi, I’m @N33ds0n
-- 👀 I’m interested in Web development
+- 👀 I’m interested in security
 - 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on Web development
 - 📫 How to reach me N33ds0n@gmail.com
