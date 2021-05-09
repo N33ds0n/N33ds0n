@@ -1,6 +1,5 @@
 
-![Image of Yaktocat](https://lh3.googleusercontent.com/d/17FeF6fCpdcqMo0cv1sV7NJ3Tft7IPStl=s220?authuser=0)
-
+>>>>>> ![Image of Yaktocat](https://lh3.googleusercontent.com/d/17xpGjP-5rOambGovwzrDEZYk2YAS89A4=s220?authuser=0) 
 - 👋 Hi, I’m @N01zz
 - 👀 I’m interested in Computer Security
 - 🌱 I’m currently learning Cryptography, JavaScript
